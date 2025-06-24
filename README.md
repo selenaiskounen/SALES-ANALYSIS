@@ -12,4 +12,5 @@ This repository contains a Power BI dashboard designed to analyze a company's sa
 5- Regional Analysis – A geographical view of sales across different regions.
 
 This tool provides a comprehensive view to support strategic business decisions based on real-time data.
+
 PS: To view the report, please download the .pbix file provided in this repository and open it using Power BI Desktop.
