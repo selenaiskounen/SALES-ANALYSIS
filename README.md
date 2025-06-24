@@ -1,16 +1,66 @@
-# SALES-ANALYSIS
-This repository contains a Power BI dashboard designed to analyze a company's sales performance. The dashboard consists of 5 pages, each focusing on a different aspect of the sales data:
+# 📊 Sales Performance Dashboard – Power BI
 
-1- Global KPIs – An overview of key performance indicators related to overall sales.
+This repository contains an interactive Power BI dashboard designed to analyze and visualize a company's sales performance across multiple dimensions.
 
-2- Customer Analysis – A breakdown of sales by customer, helping identify top clients and purchasing behavior.
+## 📁 Dashboard Overview
 
-3- Product Analysis – Insights into sales by product, including best-sellers and underperforming items.
+The dashboard consists of **5 pages**, each focusing on a different aspect of the sales data:
 
-4- Sales Team Performance – Evaluation of individual sales representatives' performance.
+1. **Global KPIs**  
+   🔹 High-level metrics: total revenue, average order value, total customers, etc.
 
-5- Regional Analysis – A geographical view of sales across different regions.
+2. **Customer Analysis**  
+   🔹 Sales by customer  
+   🔹 Identification of top clients and purchasing trends
 
-This tool provides a comprehensive view to support strategic business decisions based on real-time data.
+3. **Product Analysis**  
+   🔹 Best-selling products  
+   🔹 Underperforming items  
+   🔹 Sales by category
 
-PS: To view the report, please download the .pbix file provided in this repository and open it using Power BI Desktop.
+4. **Sales Team Performance**  
+   🔹 Individual performance metrics  
+   🔹 Sales by representative
+
+5. **Regional Analysis**  
+   🔹 Geographic breakdown of sales  
+   🔹 Regional comparisons and insights
+
+---
+
+## 📝 Report Access
+
+📌 You can view the full interactive dashboard by downloading the Power BI file below:
+
+➡️ [`sales_report.pbix`](report/sales_report.pbix)
+
+Alternatively, you can view a static preview here:
+
+📄 [`sales_report_summary.pdf`](report/sales_report_summary.pdf)
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI Desktop
+- Synthetic sales data
+- Data modeling (DAX, relationships, measures)
+
+
+---
+
+## 💡 Project Goals
+
+- Provide management with real-time sales insights  
+- Identify growth opportunities and areas of concern  
+- Support strategic business decisions with clear data visuals
+
+---
+
+## 📬 Contact
+
+For any questions or feedback:
+
+📧 selena.iskounen@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/selena-iskounen-5b38341a6/)
+
